@@ -7,7 +7,7 @@ permalink: /publication/Mahfuz_Highly_OPEX_2025
 date: 2025-10-17
 venue: 'Optics Express'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-2745&id=567136'
+paperurl: '/files/pdf/research/Mahfuz_Highly_OPEX_2025.pdf'
 link: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-33-2-2745&id=567136'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Mohammad Al Mahfuz and Md Selim Habib, Optics Express 33, 2745 (2025)'
