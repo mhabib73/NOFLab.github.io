@@ -84,32 +84,32 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Md Selim Habib, PhD"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
-  location         :
-  employer         :
+  bio              : "Assistant Professor of Electrical Engineering"
+  location         : "Florida, USA"
+  employer         : "Florida Institute of Technology"
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
+  orcid            : "https://orcid.org/0000-0003-0161-5325"
   googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  email            : "mhabib@fit.edu" 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.fit.edu/faculty-profiles/h/habib-md/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "mhabib73"
+  gitlab           : #"jayrobwilliams"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         : https://www.linkedin.com/in/md-selim-habib-00529439/
+  mastodon         : #"fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
