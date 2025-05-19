@@ -2,8 +2,6 @@
 permalink: /teaching/
 title: "Teaching"
 ---
-
-## Florida Institute of Technology
 ## Fall Semester
 - ECE 5350: Optical Electronics 
 -  ECE2111: Circuit Theory 1
