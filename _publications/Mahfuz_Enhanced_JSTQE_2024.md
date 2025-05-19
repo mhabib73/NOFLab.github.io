@@ -1,5 +1,5 @@
 ---
-title: "Enhanced Inhibited Mode-Coupling: Multi-Mode Hollow-Core Anti-Resonant Fiber Designs"
+title: "Enhanced inhibited mode-coupling: Multi-mode hollow-core anti-resonant fiber designs"
 collection: publications
 category: manuscripts
 permalink: /publication/Mahfuz_Enhanced_JSTQE_2024
