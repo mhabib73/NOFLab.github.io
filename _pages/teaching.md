@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-#title: "Teaching"
+title: "Teaching"
 ---
 ## Fall Semester
 - ECE 5350: Optical Electronics 
