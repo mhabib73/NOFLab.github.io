@@ -10,5 +10,6 @@ venue: 'IEEE Journal of Selected Topics in Quantum Electronics'
 #paperurl: 'https://ieeexplore.ieee.org/abstract/document/10568319'
 link: 'https://ieeexplore.ieee.org/abstract/document/10568319'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+code: 'http://10.1109/JSTQE.2024.3417824' 
 citation: 'Mohammad Al Mahfuz and Md Selim Habib, IEEE Journal of Selected Topics in Quantum Electronics 30, 4301409 (2024)'
 ---
