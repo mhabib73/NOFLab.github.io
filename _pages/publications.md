@@ -17,7 +17,7 @@ Automatica, 2025.\
 [OpenReview](https://openreview.net/forum?id=M4ejBhNNrn){: .btn--research}{:target="_blank"}
 [ICML](https://icml.cc/virtual/2024/poster/34254){: .btn--research}{:target="_blank"}
 [code](https://github.com/dgedon/PCR_spiked_covariance){: .btn--research}{:target="_blank"}
-[download](files/pdf/research/Mahfuz_Ultra_IEEE_Access_2024.pdf){: .btn--research}{:target="_blank"}
+[download](/files/pdf/research/Mahfuz_Ultra_IEEE_Access_2024.pdf){: .btn--research}{:target="_blank"}
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
